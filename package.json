@@ -2,7 +2,7 @@
   "name": "project-parcel",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://zxcmimis.github.io/project-parsile/",
+  "homepage": "https://zxcmimis.github.io/project-parcel/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx parcel src/index.html",
